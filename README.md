@@ -1,7 +1,7 @@
-# Superstore Sales Performance Dashboard
+# Superstone Sales Performance Dashboard
 
 ## Project Overview
-This project presents an interactive Power BI dashboard built using the Superstore dataset. The objective is to analyze sales performance, profitability, and regional trends to derive meaningful business insights.
+This project presents an interactive Power BI dashboard built using the Superstone dataset. The objective is to analyze sales performance, profitability, and regional trends to derive meaningful business insights.
 
 The dashboard focuses on identifying high-performing regions, profitable product categories, and overall sales trends.
 
