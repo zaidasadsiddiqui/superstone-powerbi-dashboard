@@ -12,6 +12,7 @@ The dashboard focuses on identifying high-performing regions, profitable product
 - DAX
 - Excel (Data Source)
 - Data Cleaning & Transformation
+- Data analyzed using SQL
 
 ---
 
